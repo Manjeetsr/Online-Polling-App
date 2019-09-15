@@ -1,5 +1,5 @@
 # Online_polling_app
-This repository holds online polling app created by Team.EXE. It can be used for any kind of elections example involving multiple winners etc.All the Roll Numbers are validated according to NIT Hamirpur.
+It can be used for any kind of elections example involving multiple winners etc.All the Roll Numbers are validated according to NIT Hamirpur.
 
 
 # Installation Guide:
